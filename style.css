@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+    background: black;
+    color: white;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+th, td {
+    padding: 8px;
+}
+
+th {
+    background-color: gray;
+}
+h1{
+    text-align: center;
+}
